@@ -1,4 +1,4 @@
-![logo](https://github.com/Abirpaul007/Abirpaul007/blob/6057be6cf5ef1e8c5e560324ac49ba25b00bb824/bannergit.png)
+![logo](https://github.com/priti0317/priti0317/blob/3ec5c3140c6118fa27009cada289e03db2399813/github_banner.png)
 <h1 align="center">Hi 👋, I'm Priti Giri</h1>
 <h3 align="center">Pursuing B. Tech in Information Technology</h3>
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3MHpnMzkxd2g3NDhsMDUxdWc2OWp4eGtzcmFpODliNGl3Y2JnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" >
