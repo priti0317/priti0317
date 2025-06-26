@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priti Giri</h1>
 <h3 align="center">Pursuing B. Tech in Information Technology</h3>
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3MHpnMzkxd2g3NDhsMDUxdWc2OWp4eGtzcmFpODliNGl3Y2JnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" >
+<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ3MHpnMzkxd2g3NDhsMDUxdWc2OWp4eGtzcmFpODliNGl3Y2JnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" >
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priti0317&label=Profile%20views&color=0e75b6&style=flat" alt="priti0317" />
