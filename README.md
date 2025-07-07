@@ -11,7 +11,7 @@
 - <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=priti0317&show_icons=true&locale=en&layout=compact" alt="priti0317" /></p>
 
 🤝 Connect with me:
-<p align="left"> <a href="https://www.linkedin.com/in/priti-giri-8b507b254/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="20" /></a> <a href="https://www.facebook.com/share/1BoVPUAxvf/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="20" /></a> <a href="https://www.instagram.com/pr_iti_017" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" /></a> <a href="https://www.github.com/priti0317" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="30" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/priti-giri-8b507b254/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a> <a href="https://www.facebook.com/share/1BoVPUAxvf/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="30" /></a> <a href="https://www.instagram.com/pr_iti_017" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" /></a> <a href="https://www.github.com/priti0317" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="30" /></a> </p>
 
 💻 Languages and Tools:
 
